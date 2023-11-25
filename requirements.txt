@@ -8,3 +8,4 @@ matplotlib==3.4.2
 requests==2.27.1
 streamlit==1.27.2
 numba==0.53.1 
+soundfile==0.11.0
