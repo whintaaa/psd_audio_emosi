@@ -21,8 +21,6 @@ import math
 
 st.title("Analisis dan Prediksi pada Data Audio Emosi")
 st.write('Nama : Whinta Virginia Putri')
-st.write('NIM : 210411100047')
-st.write('Proyek Sains Data A')
 
 data_audio, processing, prediksi  = st.tabs(["Deskripsi Dataset Audio", "Preprocessing dan Modelling", "Prediksi Data Audio"])
 
@@ -273,5 +271,6 @@ with prediksi:
 
     if __name__ == "__main__":
         main()
+
 
 
